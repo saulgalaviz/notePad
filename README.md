@@ -1,6 +1,10 @@
 # NotePad
 
-A simulated note pad using Java and the Java Swing graphical user interface library. 
+Extracurricular work aimed at simulating the default Windows Notepad, developed using Java along with the
+Java Swing graphical user interface library.
+
+Attentively copied feature by feature for each of those in the Windows Notepad, carefully replicating the drop
+down menu along with hot key commands that are presented within the Windows version. 
 
 # Running the application.
 ![alt text](https://i.imgur.com/MoXPz2c.png)
