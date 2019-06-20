@@ -5,7 +5,15 @@ Java Swing graphical user interface library.
 
 Attentively copied feature by feature for each of those in the Windows Notepad, carefully replicating the drop
 down menu along with hot key commands that are presented within the Windows version. 
-## DEMO
+
+Concepts: Graphical User Interface
+
+Tools: Eclipse, Java Swing
+
+Languages: Java
+
+
+# Demo
 # Running the application.
 ![alt text](https://i.imgur.com/MoXPz2c.png)
 
